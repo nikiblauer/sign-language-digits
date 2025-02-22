@@ -57,6 +57,3 @@ The goal is to recognize digits (0-9) from sign language images. The notebook co
 
 The model achieves high accuracy on the test set, effectively recognizing sign language digits from images.
 
----
-
-Would you like me to include usage examples or sample results?
