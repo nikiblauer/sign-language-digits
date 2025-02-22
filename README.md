@@ -1,5 +1,5 @@
 # **Sign Language Digit Classification**
-
+![header](header.png)
 This project focuses on classifying hand gestures representing digits (0-9) in sign language using a convolutional neural network (CNN) built with PyTorch. The model is trained on images of hand signs, enabling accurate digit recognition for potential use in accessibility tools or real-time applications.
 
 ---
