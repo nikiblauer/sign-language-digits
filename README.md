@@ -12,7 +12,7 @@ This project focuses on classifying hand gestures representing digits (0-9) in s
 │   ├── train.csv            # Training annotations
 │   └── test.csv             # Test annotations
 ├── model.ipynb              # Notebook for data processing, training, and evaluation
-├── model.pth                # saved model weights
+├── model_weights.pth        # saved model weights
 ├── environment.yml          # Conda environment setup
 └── README.md                # Project overview
 ```
